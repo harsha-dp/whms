@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+#myDIV {
+	border: 2px solid lightblue;
+	width: 100%;
+	height: 550px;
+}
+.table, td, th {
+	border: 1px solid #ddd;
+}
+tfoot {
+	display: table-header-group;
+}

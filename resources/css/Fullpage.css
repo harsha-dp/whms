@@ -1,0 +1,21 @@
+@CHARSET "ISO-8859-1";
+
+.content-page {
+	margin-left: 195px;
+	overflow: hidden;
+	margin-top: -23px;
+	margin-right: -13px;
+}
+.navbar-default {
+    background-color: #ebeff2;
+    border-radius: 0px;
+    border: none;
+    border-top: 3px solid #71b6f9;
+    margin-bottom: -7px;
+    padding: 0px 7px;
+    height: 18px;
+}
+.fa-2x {
+    font-size: 2em;
+    color: #5f8eaa;
+}/
